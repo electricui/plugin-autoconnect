@@ -1,6 +1,6 @@
 {
   "name": "@electricui/plugin-autoconnect",
-  "version": "0.6.15-prerelease.64",
+  "version": "0.7.0",
   "description": "ElectricUI Device Autoconnection Plugin",
   "electricui-dev": true,
   "author": "Electric UI <support@electricui.com> (https://electricui.com)",
@@ -14,12 +14,12 @@
     "manifest.json"
   ],
   "dependencies": {
-    "@electricui/components-core": "^0.6.15-prerelease.64",
-    "@electricui/core": "^0.6.15-prerelease.64",
+    "@electricui/components-core": "^0.7.0",
+    "@electricui/core": "^0.7.0",
     "debug": "^4.1.1"
   },
   "devDependencies": {
-    "@electricui/build-rollup-config": "^0.6.15-prerelease.25",
+    "@electricui/build-rollup-config": "^0.7.0",
     "@types/bluebird": "^3.5.25",
     "@types/chai": "^4.1.7",
     "@types/chai-subset": "^1.3.2",
